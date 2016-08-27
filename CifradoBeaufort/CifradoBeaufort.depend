@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1472163313 source:/home/alonso/Escritorio/CifradoBeaufort/emisor.cpp
+	<iostream>
+	"emisor.h"
+
+1472163390 /home/alonso/Escritorio/CifradoBeaufort/emisor.h
+	<string>
+
+1472163349 source:/home/alonso/Escritorio/CifradoBeaufort/main.cpp
+	<iostream>
+	"emisor.h"
+	"receptor.h"
+
+1472157194 /home/alonso/Escritorio/CifradoBeaufort/receptor.h
+	<string>
+
+1472163255 source:/home/alonso/Escritorio/CifradoBeaufort/receptor.cpp
+	<iostream>
+	"receptor.h"
+	"emisor.h"
+
+1472163312 source:/home/alonso/Escritorio/Cifrados/CifradoBeaufort/emisor.cpp
+	<iostream>
+	"emisor.h"
+
+1472163390 /home/alonso/Escritorio/Cifrados/CifradoBeaufort/emisor.h
+	<string>
+

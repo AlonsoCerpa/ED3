@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1471904480 source:/home/alonso/Escritorio/CifradoEscitala/Emisor.cpp
+	<iostream>
+	"Emisor.h"
+
+1472140286 /home/alonso/Escritorio/CifradoEscitala/Emisor.h
+	<string>
+
+1472141708 source:/home/alonso/Escritorio/CifradoEscitala/main.cpp
+	<iostream>
+	"Emisor.h"
+	"Receptor.h"
+
+1472140284 /home/alonso/Escritorio/CifradoEscitala/Receptor.h
+	<iostream>
+
+1472140538 source:/home/alonso/Escritorio/CifradoEscitala/receptor.cpp
+	"Receptor.h"
+	<iostream>
+
+1471910100 source:/home/alonso/Escritorio/CifradoEscitala/emisor.cpp
+	<iostream>
+	"Emisor.h"
+
