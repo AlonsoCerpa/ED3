@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1472181435 source:/home/alonso/Escritorio/InversoModular/main.cpp
+	<iostream>
+	<vector>
+
+1472216857 source:/home/alonso/Escritorio/Cifrados/InversoModular/inversoModular.cpp
+	"inversoModular.h"
+
+1472320067 /home/alonso/Escritorio/Cifrados/InversoModular/inversoModular.h
+	<vector>
+
+1472216703 source:/home/alonso/Escritorio/Cifrados/InversoModular/main.cpp
+	<iostream>
+	<vector>
+	"inversoModular.h"
+
+1472216856 source:c:\users\acerp\desktop\cifrados\inversomodular\inversomodular.cpp
+	"inversoModular.h"
+
+1473636184 c:\users\acerp\desktop\cifrados\inversomodular\inversomodular.h
+	<vector>
+
+1472216702 source:c:\users\acerp\desktop\cifrados\inversomodular\main.cpp
+	<iostream>
+	<vector>
+	"inversoModular.h"
+

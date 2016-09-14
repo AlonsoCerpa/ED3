@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1473483358 source:c:\users\acerp\desktop\cifrados\euclidesbinario\main.cpp
+	"funciones.h"
+	<NTL/ZZ.h>
+	<chrono>
+	<iostream>
+	<fstream>
+
+1473489958 c:\users\acerp\desktop\cifrados\euclidesbinario\funciones.h
+	<NTL/ZZ.h>
+

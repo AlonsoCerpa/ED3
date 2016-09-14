@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1473637703 source:c:\users\acerp\desktop\cifrados\prueba\main.cpp
+	<iostream>
+	<NTL/ZZ.h>
+	"C:\Users\acerp\Desktop\Cifrados\funciones.h"
+
+1473637937 c:\users\acerp\desktop\cifrados\funciones.h
+	<NTL/ZZ.h>
+

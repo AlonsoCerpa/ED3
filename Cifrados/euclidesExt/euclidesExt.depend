@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1473528122 source:c:\users\acerp\desktop\cifrados\euclidesext\main.cpp
+	"fun.h"
+	<NTL/ZZ.h>
+
+1473528050 c:\users\acerp\desktop\cifrados\euclidesext\fun.h
+	<NTL/ZZ.h>
+
