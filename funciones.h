@@ -138,4 +138,9 @@ ZZ inversa(ZZ num1, ZZ num2)
     }
 }
 
+void printPrueba()
+{
+	cout << "hola git" << endl;
+}
+
 #endif //FUNCIONES_H_INCLUDED
