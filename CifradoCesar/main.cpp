@@ -17,6 +17,8 @@ int main()
     std::string mensajeCifrado;
     std::string mensajeDescifrado;
 
+//Comentario
+
     cout << "Ingrese una clave: ";
     cin >> clave;
 
